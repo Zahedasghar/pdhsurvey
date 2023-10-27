@@ -1,0 +1,37 @@
+row_labels,all
+1|Currently used any modern method|no,74.98148800271343
+1|Currently used any modern method|yes,25.018511997286563
+1|Currently used any modern method|#Total cases,11902
+1|age in 5-year groups|15-19,5.007945366113737
+1|age in 5-year groups|20-24,15.676014538646537
+1|age in 5-year groups|25-29,21.078768002513737
+1|age in 5-year groups|30-34,19.811210772735887
+1|age in 5-year groups|35-39,17.27013962659199
+1|age in 5-year groups|40-44,11.185964489426437
+1|age in 5-year groups|45-49,9.969957203971672
+1|age in 5-year groups|#Total cases,11902
+1|education level|none,48.79161621363617
+1|education level|primary,16.459991074409448
+1|education level|sec+,34.748392711954374
+1|education level|#Total cases,11902
+"1|Exposed to TV, radio, or paper media sources|no",75.91755945836104
+"1|Exposed to TV, radio, or paper media sources|yes",24.08244054163896
+"1|Exposed to TV, radio, or paper media sources|#Total cases",11901
+1|wealth index combined|poorest,18.218334495690783
+1|wealth index combined|poorer,19.42092699324322
+1|wealth index combined|middle,20.346495850513495
+1|wealth index combined|richer,20.917924836971576
+1|wealth index combined|richest,21.096317823580925
+1|wealth index combined|#Total cases,11902
+1|type of place of residence|urban,36.76600265266352
+1|type of place of residence|rural,63.23399734733648
+1|type of place of residence|#Total cases,11902
+1|region|punjab,53.05522102347574
+1|region|sindh,23.2432492586838
+1|region|kpk,15.598670418658928
+1|region|balochistan,5.297360404799855
+1|region|gb,NA
+1|region|ict,0.872712981768018
+1|region|ajk,NA
+1|region|fata,1.9327859126136488
+1|region|#Total cases,11902

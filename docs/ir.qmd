@@ -4,7 +4,7 @@ title-block-banner: true
 
 subtitle: "Pakistan Demographic Health Survey Data"
 format: 
-  html: 
+  docx: 
     theme: [default, custom.css, styles.scss]
     toc: true
 execute: 
